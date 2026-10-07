@@ -1,2 +1,5 @@
 # WRITEUPS
-CTF and Security Writeups 
+Writeups from CTFs, security competitions, and projects.
+
+## Index
+- Coming soon
